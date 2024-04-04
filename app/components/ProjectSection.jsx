@@ -21,7 +21,7 @@ const projectsData = [
         description: "A YouTube clone utilizing React, Tailwind CSS, and the YouTube API, showcasing dynamic content retrieval and modern, responsive design.t",
         image: "/images/projects/2.png",
         tag: ["All", "React"],
-        gitUrl: "/",
+        gitUrl: "https://github.com/vishisht31/Youtube-clone",
         previewUrl: "/",
       },
       {
