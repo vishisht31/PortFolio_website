@@ -37,9 +37,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Motivated sofware engineering student with strong
+            Motivated software engineering student with strong
             programming skills, adept at problem-solving. Collaborative
-            team player with efective communication. Eager to apply
+            team player with effective communication. Eager to apply
             knowledge in real-world sofware development.
           </p>
           <div>
