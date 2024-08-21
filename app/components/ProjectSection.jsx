@@ -11,8 +11,8 @@ const projectsData = [
       description: "An advanced edtech platform built with ReactJS, MongoDB, Express, and Tailwind CSS, offering responsive UI, secure backend, and modern design.",
       image: "/images/projects/StudyNotion.png",
       tag: ["All", "MERN Stack"],
-      gitUrl: "https://github.com/vishisht31/StudyNotion",
-      previewUrl: "/",
+      gitUrl: "https://github.com/vishisht31/StudyNotion-edtech",
+      previewUrl: "https://studynotion-edtech-mygq.onrender.com/",
     },
     {
       id: 3,
