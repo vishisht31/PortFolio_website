@@ -15,6 +15,15 @@ const projectsData = [
       previewUrl: "https://studynotion-edtech-mygq.onrender.com/",
     },
     {
+    "id": 2,
+    "title": "AI Mock Interview",
+    "description": "An AI-powered mock interview platform built with React.js, Node.js, and MongoDB, designed to simulate real interview scenarios and provide insightful feedback.",
+    "image": "/Images/projects/AIMockInterview.png",
+    "tag": ["All", "MERN Stack"],
+    "gitUrl": "https://github.com/vishisht31/Ai-Mock-Interview",
+    "previewUrl": "https://ai-mock-interview-roan.vercel.app/"
+}
+    {
       id: 3,
       title: "YouTube Clone",
       description: "A YouTube clone utilizing React, Tailwind CSS, and the YouTube API, showcasing dynamic content retrieval and modern, responsive design.",
@@ -24,7 +33,7 @@ const projectsData = [
       previewUrl: "https://youtube-clone-ebon-five.vercel.app/",
     },
     {
-        id: 2,
+        id: 4,
         title: "Razorpay Clone",
         description: "A Razorpay front-end clone developed with HTML, CSS, and Tailwind CSS, highlighting my expertise in creating sleek, responsive web designs.",
         image: "/Images/projects/Razorpay.png",
@@ -34,13 +43,13 @@ const projectsData = [
 
     },
     {
-        id: 4,
+        id: 5,
         title: "Shopping Cart",
         description: "Developed a Shopping Cart System with React, Redux, and Tailwind CSS.",
         image: "/Images/projects/3.png",
         tag: ["All", "React"],
-        gitUrl: "/",
-        previewUrl: "/",
+        gitUrl: "https://github.com/vishisht31/E-commerce-Shopping-Cart",
+        previewUrl: "https://e-commerce-shopping-cart-five.vercel.app/",
       },
 ]
 
