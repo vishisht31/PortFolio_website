@@ -22,7 +22,7 @@ const projectsData = [
     "tag": ["All", "MERN Stack"],
     "gitUrl": "https://github.com/vishisht31/Ai-Mock-Interview",
     "previewUrl": "https://ai-mock-interview-roan.vercel.app/"
-}
+    },
     {
       id: 3,
       title: "YouTube Clone",
